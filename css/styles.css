@@ -1,13 +1,11 @@
-h1 {
-  border: 50px;
+body {
+  background-color: #D49098;
 }
-#result{
+#result {
   display: none;
-  font-size: 12pt;
-  color: blue;
-  font-weight: bold;
+  color: red;
 }
 #output {
-  color: green;
+  color: blue;
   font-size: 12pt;
 }
