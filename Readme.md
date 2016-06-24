@@ -11,8 +11,6 @@ Numbers divisible by 3 are replaced with "ping",
 Numbers divisible by 5 are replaced with "pong",
 Numbers divisible by 15 are replaced with "ping-pong".
 
-
-
 ## Specifications
 | Behavior | Input Example | Output Example |
 | ------------- |:-------------:| -----:|
@@ -21,11 +19,11 @@ Numbers divisible by 15 are replaced with "ping-pong".
 | Numbers divisible by 3 are replaced with "ping"| 3 | ping
 | Numbers divisible by 5 are replaced with "pong" | 5 | pong
 
-
-
 ## Support and contact details
 
 Contact the authors at [farvid.sh@gmail.com]
+
+##open in browser: https://sherly789.github.io/Ping-Pong/
 
 ## Technologies Used
 
