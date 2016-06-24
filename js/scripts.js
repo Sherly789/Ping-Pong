@@ -4,6 +4,8 @@ function countNumber(number) {
   for ( var i = 1; i <= number; i += 1 ) {
     if (i % 15 ===0) {
       newInput.push("ping-pong");
+    } else if (i % 3 ===0) {
+      newInput.push("ping")
     } else {
       newInput.push(i);
     }
