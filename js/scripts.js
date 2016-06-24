@@ -16,21 +16,16 @@ function countNumber(number) {
 };
 
 
-
-
-
-
-
-
-
 // user interface
   $(document).ready(function() {
     $("form#ping-pong").submit(function(event) {
       event.preventDefault();
 
       var number = parseInt($("input#input").val());
-      var Output = countNumber(number)
+      var output = countNumber(number)
 
-      $("#result").text(Output);
+      $("#result").show();
+      $("#output").text(output)
+
     });
   });

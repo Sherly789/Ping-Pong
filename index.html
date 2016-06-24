@@ -11,6 +11,13 @@
   <body>
     <div class="container">
       <h1>Ping-Pong Game!</h1>
+      <h3>Rules!</h3>
+      <h4>Count a number from one to the chosen number with the following exceptions:</h4>
+      <ul>
+        <li>Numbers divisible by 3 are replaced with "ping"</li>
+        <li>Numbers divisible by 5 are replaced with "pong"</li>
+        <li>Numbers divisible by 15 are replaced with "ping-pong"</li></ul>
+
 
       <form id="ping-pong">
         <div class="form-group">
@@ -22,7 +29,7 @@
       </form>
 
       <div id="result">
-        <p>Here is your results:</p>
+        <h3>Here is your results:<span id="output"></span></h3>
       </div>
     </div>
   </body>
