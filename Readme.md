@@ -1,16 +1,15 @@
-# _Ping-Pong _
+# Ping-Pong
 
-#### _Apply Ping-Pong game rules_
+#### Apply Ping-Pong game rules
 
-#### By
-_**Shokouh Farvid**_
+### By
+**Shokouh Farvid**
 
 ## Description
-
-_ takes a number from a user and returns a range of numbers from 1 to the chosen number with the following exceptions:
-Numbers divisible by 3 are replaced with "ping"
-Numbers divisible by 5 are replaced with "pong"
-Numbers divisible by 15 are replaced with "ping-pong" _
+takes a number from a user and returns a range of numbers from 1 to the chosen number with the following exceptions:
+Numbers divisible by 3 are replaced with "ping",
+Numbers divisible by 5 are replaced with "pong",
+Numbers divisible by 15 are replaced with "ping-pong".
 
 
 
@@ -26,11 +25,11 @@ Numbers divisible by 15 are replaced with "ping-pong" _
 
 ## Support and contact details
 
-_Contact the authors at [farvid.sh@gmail.com],_
+Contact the authors at [farvid.sh@gmail.com]
 
 ## Technologies Used
 
-_Atom text editor, with html5, css3, and javascript.  JQuery, and boot strap CDN incorporated._
+Atom text editor, with html5, css3, and javascript.  JQuery, and boot strap CDN incorporated.
 
 ### License
 
