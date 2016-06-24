@@ -2,9 +2,12 @@
 function countNumber(number) {
   var newInput = [];
   for ( var i = 1; i <= number; i += 1 ) {
-    newInput.push(i);
+    if (i % 15 ===0) {
+      newInput.push("ping-pong");
+    } else {
+      newInput.push(i);
+    }
   }
-
   return newInput;
 };
 
